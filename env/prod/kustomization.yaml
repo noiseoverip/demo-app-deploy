@@ -3,3 +3,7 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/argocon2022-workshop/demo-app
+  newName: ghcr.io/noiseoverip/demo-app
+  newTag: 087443de5e9591cce4265dff7e508c893a8ae7a6
