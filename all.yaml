@@ -25,7 +25,7 @@ spec:
         app: demo-app
     spec:
       containers:
-      - image: ghcr.io/noiseoverip/demo-app:087443de5e9591cce4265dff7e508c893a8ae7a6
+      - image: ghcr.io/noiseoverip/demo-app:ac2f1c2899e2d33969daf0e196e7932504d5fd8c
         name: demo-app
         ports:
         - containerPort: 8080
