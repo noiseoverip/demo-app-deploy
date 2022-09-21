@@ -7,4 +7,4 @@ resources:
 images:
 - name: ghcr.io/argocon2022-workshop/demo-app
   newName: ghcr.io/noiseoverip/demo-app
-  newTag: 087443de5e9591cce4265dff7e508c893a8ae7a6
+  newTag: ac2f1c2899e2d33969daf0e196e7932504d5fd8c
